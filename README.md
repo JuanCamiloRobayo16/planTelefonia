@@ -1,2 +1,2 @@
-# Diagrama De cLASE
+# Diagrama De Clase
 ![DIAGRAMA](Diagrama.jpeg)
